@@ -1,6 +1,6 @@
 # pypurs
 
-<img width="400" alt="pypurs" src="https://github.com/user-attachments/assets/eb4b1c50-2843-44f1-9a10-827f7cc5a920" />
+<img width="300" height="182" alt="pypurs3" src="https://github.com/user-attachments/assets/f1866d35-c2f6-4a00-ae2f-3173a5f9ebf9" />
 <br />
 
 WIP: Currently working on a compiler targeting this language.
