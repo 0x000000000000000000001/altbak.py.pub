@@ -4,7 +4,7 @@
 <br />
 <br />
 
-WIP: Currently working on a PureScript compiler targeting Python.
+WIP: Currently working on a super-optimized PureScript compiler targeting Python.
 
 You may find another compiler [here](https://github.com/purescript-python/purescript-python), but it may be not super active, nowadays. 
 
