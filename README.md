@@ -1,6 +1,6 @@
 # pypurs
 
-<img width="400" alt="pypurs" src="https://github.com/user-attachments/assets/840d6d59-6859-4196-a6f2-a11a3e3561ea" />
+<img height="160" alt="pypurs" src="https://github.com/user-attachments/assets/840d6d59-6859-4196-a6f2-a11a3e3561ea" />
 <br />
 <br />
 
